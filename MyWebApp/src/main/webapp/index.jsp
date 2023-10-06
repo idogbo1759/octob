@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World! I am just making changes tru Bash</h2>
+<h2>Hey its friday</h2>
 </body>
 </html>
